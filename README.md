@@ -404,13 +404,6 @@ python scripts/run_tests.py --coverage
 
 Para más detalles, consulta [tests/README.md](tests/README.md).
 
-## Contribución
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
 
 ## Herramientas de Desarrollo
 
